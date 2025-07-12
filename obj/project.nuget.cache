@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vyl/QXeCg+4=",
+  "success": true,
+  "projectFilePath": "/Users/olegpona/Downloads/Bankomat_Lab1/Bankomat_Lab1/Bankomat_Lab1.csproj",
+  "expectedPackageFiles": [
+    "/Users/olegpona/.nuget/packages/microsoft.netcore.app.ref/8.0.15/microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/olegpona/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/olegpona/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.15/microsoft.netcore.app.host.osx-arm64.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

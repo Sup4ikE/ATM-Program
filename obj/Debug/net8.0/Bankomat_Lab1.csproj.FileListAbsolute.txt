@@ -1,0 +1,14 @@
+/Users/olegpona/Downloads/Bankomat_Lab1/Bankomat_Lab1/bin/Debug/net8.0/Bankomat_Lab1
+/Users/olegpona/Downloads/Bankomat_Lab1/Bankomat_Lab1/bin/Debug/net8.0/Bankomat_Lab1.deps.json
+/Users/olegpona/Downloads/Bankomat_Lab1/Bankomat_Lab1/bin/Debug/net8.0/Bankomat_Lab1.runtimeconfig.json
+/Users/olegpona/Downloads/Bankomat_Lab1/Bankomat_Lab1/bin/Debug/net8.0/Bankomat_Lab1.dll
+/Users/olegpona/Downloads/Bankomat_Lab1/Bankomat_Lab1/bin/Debug/net8.0/Bankomat_Lab1.pdb
+/Users/olegpona/Downloads/Bankomat_Lab1/Bankomat_Lab1/obj/Debug/net8.0/Bankomat_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegpona/Downloads/Bankomat_Lab1/Bankomat_Lab1/obj/Debug/net8.0/Bankomat_Lab1.AssemblyInfoInputs.cache
+/Users/olegpona/Downloads/Bankomat_Lab1/Bankomat_Lab1/obj/Debug/net8.0/Bankomat_Lab1.AssemblyInfo.cs
+/Users/olegpona/Downloads/Bankomat_Lab1/Bankomat_Lab1/obj/Debug/net8.0/Bankomat_Lab1.csproj.CoreCompileInputs.cache
+/Users/olegpona/Downloads/Bankomat_Lab1/Bankomat_Lab1/obj/Debug/net8.0/Bankomat_Lab1.dll
+/Users/olegpona/Downloads/Bankomat_Lab1/Bankomat_Lab1/obj/Debug/net8.0/refint/Bankomat_Lab1.dll
+/Users/olegpona/Downloads/Bankomat_Lab1/Bankomat_Lab1/obj/Debug/net8.0/Bankomat_Lab1.pdb
+/Users/olegpona/Downloads/Bankomat_Lab1/Bankomat_Lab1/obj/Debug/net8.0/Bankomat_Lab1.genruntimeconfig.cache
+/Users/olegpona/Downloads/Bankomat_Lab1/Bankomat_Lab1/obj/Debug/net8.0/ref/Bankomat_Lab1.dll
